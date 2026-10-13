@@ -1,1 +1,3 @@
-Ho How are you
+Hello GitHub!
+This is my first Git project.
+I am learning how to update files using Git.
